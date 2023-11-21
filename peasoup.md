@@ -1,2 +1,6 @@
+#Ingredients
+- peas
+- onions
+- potato
 
-this is a sentence
+Instructions
