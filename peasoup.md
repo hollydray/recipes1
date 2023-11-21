@@ -4,4 +4,6 @@
 - potato
 
 #Instructions
-First step
+<<<<<<< HEAD
+First step,  chop veg
+
