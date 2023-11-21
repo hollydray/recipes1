@@ -4,5 +4,7 @@
 1.  Mushrooms
 2. Garlic
 3.  Onions  
-2.  3.
+4.  Chanterelles
+5.  Button mushrooms
+
 
